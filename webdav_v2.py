@@ -13,7 +13,7 @@ if len(sys.argv) != 3:
  print("\n\033[34;1m[*]\033[0m python "+sys.argv[0]+" list.txt deface.html")
  exit(0)
 
-print("\n\033[34;1m[*]\033[0m Python WebDav Exploiter\n\033[34;1m[*]\033[0m Coded By ./Xi4u7\n\033[34;1m[*]\033[0m AndroSec1337 Cyber Team\n")
+print("\n\033[34;1m[*]\033[0m Python Defacer Exploiter\n\033[34;1m[*]\033[0m Coded By indrajit@lucifar\n\033[34;1m[*]\033[0m Indian Cyber Shield Team\n")
 
 target = open(sys.argv[1], 'r')
 while True:
